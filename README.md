@@ -1,1 +1,1 @@
-# primeno
+26 sdk
